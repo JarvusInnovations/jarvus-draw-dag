@@ -18,6 +18,6 @@
     "output": "${package.dir}/build",
     "local": true,
     "requires": [
-        "sencha-charts"
+        "charts"
     ]
 }
